@@ -1,0 +1,12 @@
+.img {
+  width: 100%;
+  /* 고정할 너비 값 */
+  height: 90%;
+  /* 고정할 높이 값 */
+  objectfit: "cover";
+  /* 이미지를 적절히 조절하여 맞춤 */
+  border-radius: 10px;
+}
+.cont {
+  margin-bottom: 100px;
+}

@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "yjeb1NsZ2k4fcyMwoLLL1nXVJWM",
+    "etag": "0m48zkirYXbGxZ3G09XwhWaauRM",
     "nextPageToken": "CBkQAA",
     "regionCode": "US",
     "pageInfo": {
@@ -10,846 +10,846 @@
     "items": [
         {
             "kind": "youtube#searchResult",
-            "etag": "jntVkFSgqGwM0JiW7Dk_aWgEoaM",
+            "etag": "EhjwwyIwunogbncwEfwStEoq9P8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "58_HGK_bI9w"
+                "videoId": "FR4u3p9SMr8"
             },
             "snippet": {
-                "publishedAt": "2023-07-13T12:08:28Z",
-                "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-                "title": "WATCH LIVE Corona Open J-Bay 2023 - Day 1",
-                "description": "Shop Official Merchandise from the 2023 Corona Open J-Bay here: ...",
+                "publishedAt": "2023-07-13T22:47:23Z",
+                "channelId": "UCLRxMcfL3Q7QWqFCWYSs5Sw",
+                "title": "&quot;이딴게 6만원?&quot; 진짜 최악의 스킨이 나왔습니다.. 발로란트 역대급 신스킨 점화 풀 업그레이드 리뷰",
+                "description": "루인 오랜만에 신스킨 리뷰.. 이건 못 참지 ㅋㅋ.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/58_HGK_bI9w/default.jpg",
+                        "url": "https://i.ytimg.com/vi/FR4u3p9SMr8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/58_HGK_bI9w/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FR4u3p9SMr8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/58_HGK_bI9w/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FR4u3p9SMr8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "World Surf League",
+                "channelTitle": "루인",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-07-13T12:08:28Z"
+                "publishTime": "2023-07-13T22:47:23Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "5oiwQaGnuQ8I5usNIRAgJhBWhDo",
+            "etag": "zemib_pWiTvtmZ4_g09X9cauCec",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "11l-svElkM4"
+                "videoId": "yp8gzrfpWoM"
             },
             "snippet": {
-                "publishedAt": "2023-07-13T10:45:38Z",
-                "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-                "title": "John John Florence, Italo Ferreira, Callum Robson | Corona Open J-Bay 2023 - Opening Rnd Heat Replay",
-                "description": "In South Africa awaits the best right-hander on Earth. The pointbreak is a blank canvas for the world's best surfers to draw creative ...",
+                "publishedAt": "2023-06-26T00:00:22Z",
+                "channelId": "UCohWQ9c_9kDQi5fqDDciteg",
+                "title": "[발로란트] IQ 200의 레디언트 플레이 &#39;&#39;TenZ&#39;&#39;ㅣ발로란트 매드무비",
+                "description": "[발로란트] IQ 200의 레디언트 플레이 ''TenZ''ㅣ발로란트 매드무비 Check out TenZ Twitch : https://www.twitch.tv/tenz Youtube ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/11l-svElkM4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/yp8gzrfpWoM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/11l-svElkM4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yp8gzrfpWoM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/11l-svElkM4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yp8gzrfpWoM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "World Surf League",
+                "channelTitle": "e스포츠 X - eSports Montage",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-07-13T10:45:38Z"
+                "publishTime": "2023-06-26T00:00:22Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "VI5Gi8Okk8KJa2ornca4RHmkHlc",
+            "etag": "TO4eFuDhoGomysr7CRK0bNgG4OI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "grJLMJtvepo"
+                "videoId": "TpFU7g7BQQU"
             },
             "snippet": {
-                "publishedAt": "2023-07-13T08:24:57Z",
-                "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-                "title": "Griffin Colapinto, Liam O&#39;Brien, Kelly Slater | Corona Open J-Bay 2023 - Opening Round Heat Replay",
-                "description": "In South Africa awaits the best right-hander on Earth. The pointbreak is a blank canvas for the world's best surfers to draw creative ...",
+                "publishedAt": "2023-07-12T08:10:52Z",
+                "channelId": "UCLRxMcfL3Q7QWqFCWYSs5Sw",
+                "title": "중국서버.. 시작합니다!",
+                "description": "루인 정말 힘들었다.. 중국서버 레디언트 가기 컨텐츠 시작합니다!",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/grJLMJtvepo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/TpFU7g7BQQU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/grJLMJtvepo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/TpFU7g7BQQU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/grJLMJtvepo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/TpFU7g7BQQU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "World Surf League",
+                "channelTitle": "루인",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-07-13T08:24:57Z"
+                "publishTime": "2023-07-12T08:10:52Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Xjh7gB6u5TtdD5d22nuuur5Yw9o",
+            "etag": "31QZZ9UsXU6uVOa3-lvMW2_xczY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "E_MlnVueNM0"
+                "videoId": "cGf5Hb0UELA"
             },
             "snippet": {
-                "publishedAt": "2023-07-06T19:48:58Z",
-                "channelId": "UCf5CA0OsvhhU-6AcSjT1oKQ",
-                "title": "Lowers is GOING OFF &amp; GLASSY ! - Dane Reynolds, Shark scare and Heavy Claims!",
-                "description": "Lower Trestles is going off and glassy for the first summer swell on June 30th, 2023! Maybe the cleanest day so far! A great white ...",
+                "publishedAt": "2023-06-14T22:20:00Z",
+                "channelId": "UC8rbhIem-3aAsNXhTDI-nSA",
+                "title": "단 3발로 적 3명을 원탭 내버린 미친 가디언 샷",
+                "description": "발로란트 #행돌 편집자 : 나에 ▷방송 알림이나, 유튜브 알림은 디스코드에서 소통하고 있습니다! --짱돌랜드 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/E_MlnVueNM0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/cGf5Hb0UELA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/E_MlnVueNM0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cGf5Hb0UELA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/E_MlnVueNM0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/cGf5Hb0UELA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "BEEFS T.V.",
+                "channelTitle": "행돌",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-07-06T19:48:58Z"
+                "publishTime": "2023-06-14T22:20:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "TUY5sxrSFIi3_Eqf5qm4cDH8ZXI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "pkc9Ho4Br70"
-            },
-            "snippet": {
-                "publishedAt": "2023-07-13T11:00:39Z",
-                "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
-                "title": "June Long Edition - Bali 2023",
-                "description": "Small waves and light winds made for a strange month. The Bukit is normally firing in June, and even though there were some fun ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/pkc9Ho4Br70/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/pkc9Ho4Br70/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/pkc9Ho4Br70/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Surfers of Bali",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-07-13T11:00:39Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "z6HBQ69w1mKrEXjWFc11hpVeT28",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "sM6tDiOsSOo"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-23T18:00:32Z",
-                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-                "title": "KAI LENNY Surfs in Final Round of THE EDDIE!",
-                "description": "Kai Lenny chases his big wave dream of a title at The Eddie Aikau Big Wave Invitational before switching gears to compete ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/sM6tDiOsSOo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/sM6tDiOsSOo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/sM6tDiOsSOo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Red Bull Surfing",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-23T18:00:32Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "2rvglv1uIfeY9im6uKCkMCfYg-8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "LorDPe9sQhM"
-            },
-            "snippet": {
-                "publishedAt": "2023-07-13T12:00:56Z",
-                "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-                "title": "Jack Robinson, Leonardo Fioravanti, Jordy Smith | Corona Open J-Bay 2023 - Opening Round Heat Replay",
-                "description": "In South Africa awaits the best right-hander on Earth. The pointbreak is a blank canvas for the world's best surfers to draw creative ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/LorDPe9sQhM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/LorDPe9sQhM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/LorDPe9sQhM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "World Surf League",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-07-13T12:00:56Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "X5nYFgx2tpCnN_gcykrJAKu_q7Y",
+            "etag": "jsy7QzrRkSuAyz1s8Kairrmkrgc",
             "id": {
                 "kind": "youtube#channel",
-                "channelId": "UCKo-NbWOxnxBnU41b-AoKeA"
+                "channelId": "UC9M8GGVwPqc9ubNruArCNPg"
             },
             "snippet": {
-                "publishedAt": "2005-11-02T06:29:47Z",
-                "channelId": "UCKo-NbWOxnxBnU41b-AoKeA",
-                "title": "SURFER",
-                "description": "We founded SURFER Magazine with a mission: to bring our readers a slice of the entire surfing world with each issue. And for ...",
+                "publishedAt": "2020-01-31T05:11:52Z",
+                "channelId": "UC9M8GGVwPqc9ubNruArCNPg",
+                "title": "발로란트",
+                "description": "발로란트 한국 공식 채널입니다. 구독과 알림설정은 필수! 홈페이지에서 무료로 다운받고 게임 플레이도 필수! 여러분의 실력을 마음껏 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AOPolaTZS_TJ8dOMI54jZlyGuZAH1Cu-ckL_2qDHEzjumqE=s88-c-k-c0xffffffff-no-rj-mo"
+                        "url": "https://yt3.ggpht.com/Hfpky9loy0EJZVj2sDCVqSbIKqIvS721yd0wtJicqlPM-Dz9BAanq1Na9H-2o6k_FWsDBz8jCFY=s88-c-k-c0xffffffff-no-rj-mo"
                     },
                     "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AOPolaTZS_TJ8dOMI54jZlyGuZAH1Cu-ckL_2qDHEzjumqE=s240-c-k-c0xffffffff-no-rj-mo"
+                        "url": "https://yt3.ggpht.com/Hfpky9loy0EJZVj2sDCVqSbIKqIvS721yd0wtJicqlPM-Dz9BAanq1Na9H-2o6k_FWsDBz8jCFY=s240-c-k-c0xffffffff-no-rj-mo"
                     },
                     "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AOPolaTZS_TJ8dOMI54jZlyGuZAH1Cu-ckL_2qDHEzjumqE=s800-c-k-c0xffffffff-no-rj-mo"
+                        "url": "https://yt3.ggpht.com/Hfpky9loy0EJZVj2sDCVqSbIKqIvS721yd0wtJicqlPM-Dz9BAanq1Na9H-2o6k_FWsDBz8jCFY=s800-c-k-c0xffffffff-no-rj-mo"
                     }
                 },
-                "channelTitle": "SURFER",
+                "channelTitle": "발로란트",
                 "liveBroadcastContent": "upcoming",
-                "publishTime": "2005-11-02T06:29:47Z"
+                "publishTime": "2020-01-31T05:11:52Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "QZSfcTcttts9Xq2tBHion_UH3G0",
+            "etag": "r9nbMXdGd3i-gmqXq9j5d8XM214",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "BO5HlJPInMc"
+                "videoId": "M6a0Mj31TUo"
             },
             "snippet": {
-                "publishedAt": "2023-07-11T02:11:23Z",
-                "channelId": "UCOCT_KrkmZ8UZdr-K7HyMuA",
-                "title": "Magnificent Surfers Conquering Tenerife&#39;s Epic Waves A Breathtaking Ride in the Canary Islands",
-                "description": "Surfing #Tenerife #canaryislands LIVE! Riding Waves in Tenerife 2023: Beautiful Surfers Mastering the Canary Islands' Swells!",
+                "publishedAt": "2023-07-01T03:00:10Z",
+                "channelId": "UCZRH94I89Ps7giJYeK6DlWA",
+                "title": "베스트 인성질 신요원 데드록 출시 현 메타에 최적화된 X친 캐릭터 ㅋㅋㅋㅋㅋ",
+                "description": "트위치 생방송 : https://www.twitch.tv/bunnychannel_ · 인스타그램 : bunnychannel__​ · 광고협찬/영상 문의 : charon@gysent.com ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/BO5HlJPInMc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/M6a0Mj31TUo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/BO5HlJPInMc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/M6a0Mj31TUo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/BO5HlJPInMc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/M6a0Mj31TUo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Catch the Wave",
+                "channelTitle": "버니버니",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-07-11T02:11:23Z"
+                "publishTime": "2023-07-01T03:00:10Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "qh5qok9EcHToyOLL_VS8g3AJpzY",
+            "etag": "VZ1HJv37z5qcXf-_YM2-sabZ-vk",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "PciH2brW7Us"
+                "videoId": "RwC3Fsd_au0"
             },
             "snippet": {
-                "publishedAt": "2023-07-12T00:52:16Z",
-                "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
-                "title": "This Surfing Accident Went So Wrong so fast! @ConD00R  #shorts #surfing",
+                "publishedAt": "2023-05-23T22:00:13Z",
+                "channelId": "UCdzvOj7ScQBI6RJ_CvDmbbw",
+                "title": "이번엔 &#39;&#39;이 스킨&#39;&#39;으로 레디언트 랭크 게임을 해봤는데..",
+                "description": "발로란트 #츈츈 재미있게 보셨다면 좋아요와 구독하기! 영상은 평일 오전7시, 주말 오전 8시에 업로드 되니까 전체 알림설정   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RwC3Fsd_au0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RwC3Fsd_au0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RwC3Fsd_au0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "츈츈ChunChun",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-23T22:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uElygf6LDT4Y5Hdldz7Ex_repI4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iV4_-mSLUAA"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-02T03:00:20Z",
+                "channelId": "UCZRH94I89Ps7giJYeK6DlWA",
+                "title": "겉멋 자신 있는 사람들 이거 보고 따라해봐욬ㅋㅋㅋㅋ 신스킨 네오 프론티어 리뷰",
+                "description": "트위치 생방송 : https://www.twitch.tv/bunnychannel_ · 인스타그램 : bunnychannel__​ · 광고협찬/영상 문의 : charon@gysent.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iV4_-mSLUAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iV4_-mSLUAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iV4_-mSLUAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "버니버니",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-02T03:00:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0etEAEZYZqbNBUpPOqkxyPZpgN0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "51L3CFODZw0"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-05T10:00:06Z",
+                "channelId": "UCNzcxCN_Hh_lu5RCSFXKgGQ",
+                "title": "“포기하지마..” 첫 배치고사 기적의 역전승!!! 서렌을 치면 안되는 이유 [발로란트]",
+                "description": "김블루쿤의 첫 발로란트 경쟁전.. 》김블루의 숨겨진 혜택이 넘치는 사탄클럽가입하기!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/51L3CFODZw0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/51L3CFODZw0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/51L3CFODZw0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "악동 김블루",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-05T10:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ElQK0X-aVFvWC-boXpj1dhNYyMI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TAfzmnxlKn4"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-20T09:00:27Z",
+                "channelId": "UCN5oT4zGJX-_H6pE5isAEeg",
+                "title": "FPS 10년차의 발로란트 배치고사 결과는?",
+                "description": "군림보 채널을 찾아주셔서 감사합니다. 좋은하루 되세요!! ▷군림보 인스타 : https://bit.ly/2YgJDTj ▷군림보 팬카페 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TAfzmnxlKn4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TAfzmnxlKn4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TAfzmnxlKn4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "군림보",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-20T09:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qiAwqJpd66_nDo67818v3JCnXEw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cGWBglfbh9c"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-09T01:06:04Z",
+                "channelId": "UCohWQ9c_9kDQi5fqDDciteg",
+                "title": "[발로란트] 발로란트 역사상 가장 빠른 에이스 ~RBㅣ발로란트 매드무비",
+                "description": "Check out RB Twitch : https://www.twitch.tv/rb0f Twitter : https://twitter.com/rb0f1207 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cGWBglfbh9c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cGWBglfbh9c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cGWBglfbh9c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "e스포츠 X - eSports Montage",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-09T01:06:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AWOMD_1m0AimS3m0rPXYHtA0Z2w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MEQiZks6hg8"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-30T10:00:14Z",
+                "channelId": "UCNzcxCN_Hh_lu5RCSFXKgGQ",
+                "title": "발로란트 상위 1%는 어떤 조준선을 쓸까요? 은근 머리만 잘맞음ㄷㄷ 맛있다..!!!",
+                "description": "하시라님 조준선 : 0;P;c;1;u;000000FF;h;0;0t;3;0v;2;0o;2;0a;1;0f;0;1b;0 @has1ra146 하시라님 유튜브도 많관부~ 》김블루의 숨겨진 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MEQiZks6hg8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MEQiZks6hg8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MEQiZks6hg8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "악동 김블루",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-30T10:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yuPBqmbOAYKIoeymAZzq3AcdbfA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tViC2sM0kDs"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-08T03:00:24Z",
+                "channelId": "UC8CIM3d3zDYMk-3T5aAz0yw",
+                "title": "혜안 발로란트 시작합니다",
+                "description": "발로란트 전 프로게이머 [업로드] 금,토,일,월 [문의메일] zxcv34276@gmail.com [인스타그램] @hxxax_ #혜안 #발로란트 Music ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tViC2sM0kDs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tViC2sM0kDs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tViC2sM0kDs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "혜안",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-08T03:00:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cf9q1vJE1Npl_vOcwT6W_pwP54U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SOVnt1t7qdM"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-13T08:00:01Z",
+                "channelId": "UCN5oT4zGJX-_H6pE5isAEeg",
+                "title": "레벨 15인데 레디언트 소리 들음ㅋㅋㅋㅋ [발로란트]",
+                "description": "군림보 채널을 찾아주셔서 감사합니다. 좋은하루 되세요!! ▷군림보 인스타 : https://bit.ly/2YgJDTj ▷군림보 팬카페 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SOVnt1t7qdM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SOVnt1t7qdM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SOVnt1t7qdM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "군림보",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-13T08:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "w6tpUUxjtJ_KvFWUp7gJRPtAR8M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ttnnG_2vXLw"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T03:00:25Z",
+                "channelId": "UCZRH94I89Ps7giJYeK6DlWA",
+                "title": "총합 35연패를 달성한 역대급 쓰레기 스킨 두 개를 같이 써봤습니다",
+                "description": "트위치 생방송 : https://www.twitch.tv/bunnychannel_ · 인스타그램 : bunnychannel__​ · 광고협찬/영상 문의 : charon@gysent.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ttnnG_2vXLw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ttnnG_2vXLw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ttnnG_2vXLw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "버니버니",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T03:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iwECQzPiiPGdDdC3NXAy53sqvPI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "l3MbDXytqTk"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-27T03:00:17Z",
+                "channelId": "UCjsiWTrWSnsbiSXzZAWW6dg",
+                "title": "요새는 이거 잘 안 쓴대요. 보호막 하나로 승률 올라간다고? l 발로란트 강의",
+                "description": "디카 #발로란트 #발로란트강의 컨텐츠를 짜던 중 제 지인들 중 어느 고티어 분이 '이거 요새 작은 갑빠 사는거 알아?' 이 한마디에서 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l3MbDXytqTk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l3MbDXytqTk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l3MbDXytqTk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "디카",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-27T03:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "f0hqWh0oBQO1G2BRdgnCVf8pM7c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PN2Ix5UZPWY"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-09T07:23:38Z",
+                "channelId": "UCLRxMcfL3Q7QWqFCWYSs5Sw",
+                "title": "1년만에 중국서버에 재출시된 스킨",
+                "description": "루인 중국서버가 12일 런칭이 되는데요, 저도 중국서버에서 재 출시되는 챔피언스 스킨과 함께 영상 제작 해 볼 생각입니다. 많이 기대 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PN2Ix5UZPWY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PN2Ix5UZPWY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PN2Ix5UZPWY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "루인",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-09T07:23:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tkhaWCEkSyQVDd41BgkekySGsu0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "drcopxq2ako"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-27T14:41:09Z",
+                "channelId": "UCv1tOT645xHOJrwdGlzjMaA",
+                "title": "DRX vs. T1 — VCT Pacific — Playoffs — 결승 진출전",
+                "description": "발로란트 e스포츠 웹사이트: https://valorantesports.com/ 페이스북: https://www.facebook.com/valorantesportskr 인스타그램: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/drcopxq2ako/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/drcopxq2ako/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/drcopxq2ako/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "발로란트 챔피언스 투어",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-27T14:41:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bAvlWlxQ1SpDE_8R4GEH990311Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GlvGPyU8TGg"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-25T04:00:13Z",
+                "channelId": "UC9M8GGVwPqc9ubNruArCNPg",
+                "title": "데드록 공식 게임플레이 공개 // 발로란트",
+                "description": "노르웨이 출신 적응형 감시자 요원인 데드록과 함께 최첨단 나노와이어 장비를 다뤄보세요. ✓발로란트는 라이엇 게임즈에서 만든 5 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GlvGPyU8TGg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GlvGPyU8TGg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GlvGPyU8TGg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "발로란트",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-25T04:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZyucLD7J32eOdrErOsYLgX12-rY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vR16B29y3bs"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-09T22:43:58Z",
+                "channelId": "UCObol-iDCg6hSj2iiOTtoSA",
+                "title": "발로란트 최근 핫한 이슈, 야시장에 이런 문제가 있었다고.. // 오픈 마이크 버그와 신규 재화 소식까지 | 구미호 요괴",
+                "description": "이번 영상은 핫이슈, 야시장 / 킹덤 크레딧 / 핫 마이크 버그 소식입니다. ↓↓영상 더보기에 설명 있어요!↓↓ 영상이 유익하셨다면 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vR16B29y3bs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vR16B29y3bs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vR16B29y3bs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "구미호 요괴",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-09T22:43:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_c4nQq-nFvBl_SVDL98erWYAgao",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BgSV1j0xqlg"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-25T09:04:26Z",
+                "channelId": "UC7vyTwJjcUdYsVQjiTHcPyg",
+                "title": "프로들도 이긴다는 에임을 가진 랭킹 1등 스트리머 Codey",
+                "description": "Codey의 유튜브 채널 주소 : https://www.youtube.com/channel/UCuOuo1Z5ChOWbB0oK_Adxjw Codey의 스트리밍 주소 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BgSV1j0xqlg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BgSV1j0xqlg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BgSV1j0xqlg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "쪼선생 JJO TEACHER",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-25T09:04:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EkXBBjHYTejXoAG__TOJKPOFMvY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wn4A9eVPXC8"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-28T09:04:17Z",
+                "channelId": "UCqcxF7BAF3GSz36Yx_0qGaQ",
+                "title": "욕 잔뜩 먹던 발로란트는 왜 10배로 떡상했을까?",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/PciH2brW7Us/default.jpg",
+                        "url": "https://i.ytimg.com/vi/wn4A9eVPXC8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/PciH2brW7Us/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wn4A9eVPXC8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/PciH2brW7Us/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/wn4A9eVPXC8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Jamie O'Brien",
+                "channelTitle": "펭귄몬스터",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-07-12T00:52:16Z"
+                "publishTime": "2023-06-28T09:04:17Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "FiDkMy7x71QQe2v6hXFvCY2NZGI",
+            "etag": "qrlRVEiFb4dSlFcd1WtgYEZsurc",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "SWHGtG9J1P4"
+                "videoId": "aog5Cp4vDRw"
             },
             "snippet": {
-                "publishedAt": "2023-07-11T17:51:09Z",
-                "channelId": "UC9k-yiEpRHMNVOnOi_aQK8w",
-                "title": "Pro Surfer Mikala Jones Dead at 44",
-                "description": "Pro Surfer Mikala Jones has died. Jones was known as a pioneer in creating point-of-view surfing content. His GoPro videos gave ...",
+                "publishedAt": "2023-07-12T02:00:00Z",
+                "channelId": "UC9M8GGVwPqc9ubNruArCNPg",
+                "title": "모두가 함께 // 중국 출시 공식 시네마틱 - 발로란트",
+                "description": "모두가 함께 세상을 구합니다. 발로란트의 중국 공식 출시와 함께, 특유의 창의성을 과시하며 한 수 앞서 상대를 압도하고 한계를 돌파 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/SWHGtG9J1P4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/aog5Cp4vDRw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/SWHGtG9J1P4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aog5Cp4vDRw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/SWHGtG9J1P4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aog5Cp4vDRw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Inside Edition",
+                "channelTitle": "발로란트",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-07-11T17:51:09Z"
+                "publishTime": "2023-07-12T02:00:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Y2hjdXlyUK6nSjwkG70rynyxK5A",
+            "etag": "cQs_BXTdW-bvWR7tSBJwjg8zimY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "uiaPe0nLF38"
+                "videoId": "sO0NCJZus58"
             },
             "snippet": {
-                "publishedAt": "2023-07-12T09:40:34Z",
-                "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-                "title": "RAW POV SURFING: WINTER SWELL IN PRISTINE CONDITIONS!",
-                "description": "We FINALLY have some swell again in Sydney! In this video, I score some fun winter waves + review some wettys from ...",
+                "publishedAt": "2023-06-03T23:00:30Z",
+                "channelId": "UC8rbhIem-3aAsNXhTDI-nSA",
+                "title": "발로란트에 아직도 핵쟁이가 있다고?",
+                "description": "발로란트 #행돌 편집자 : 깅가 ▷방송 알림이나, 유튜브 알림은 디스코드에서 소통하고 있습니다! --짱돌랜드 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/uiaPe0nLF38/default.jpg",
+                        "url": "https://i.ytimg.com/vi/sO0NCJZus58/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/uiaPe0nLF38/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sO0NCJZus58/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/uiaPe0nLF38/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/sO0NCJZus58/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Surfing With Noz",
+                "channelTitle": "행돌",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-07-12T09:40:34Z"
+                "publishTime": "2023-06-03T23:00:30Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "d6p6Vn7wlPkc-rmiA5S3rVckz2w",
+            "etag": "mYyzqIF8vQglNWJbUN5KiUAvLDE",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "ma67yOdMQfs"
+                "videoId": "iY-hsLkCpHQ"
             },
             "snippet": {
-                "publishedAt": "2021-01-23T17:00:15Z",
-                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-                "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
-                "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
+                "publishedAt": "2023-05-29T10:00:27Z",
+                "channelId": "UCNzcxCN_Hh_lu5RCSFXKgGQ",
+                "title": "5분 만에 마스터해서 프로들도 놀라버렸습니다 ㅋㅋㅋ 저 이제 발로란트 경쟁전 돌릴 수 있음?",
+                "description": "김블루의 숨겨진 혜택이 넘치는 사탄클럽가입하기!! : https://www.youtube.com/channel/UCNzcxCN_Hh_lu5RCSFXKgGQ/join ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/iY-hsLkCpHQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/iY-hsLkCpHQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/iY-hsLkCpHQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Red Bull Surfing",
+                "channelTitle": "악동 김블루",
                 "liveBroadcastContent": "none",
-                "publishTime": "2021-01-23T17:00:15Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "fffekzBDQochFs58ewBsUr5z32s",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "2NHqmHFGnxE"
-            },
-            "snippet": {
-                "publishedAt": "2023-07-13T17:26:31Z",
-                "channelId": "UCVWQWc8PXy6Itt7YNrivOYw",
-                "title": "Surfing sea otter steals surfboards, eludes capture",
-                "description": "A wild sea otter has apparently discovered a pirate passion for commandeering surfboards from surfers on the westside of Santa ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/2NHqmHFGnxE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/2NHqmHFGnxE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/2NHqmHFGnxE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "KRON 4",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-07-13T17:26:31Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "zROYSF8xH18lFWrWv1tuSJofcbs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "eSWST13stO4"
-            },
-            "snippet": {
-                "publishedAt": "2022-03-27T15:00:32Z",
-                "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-                "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
-                "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Waves of the World",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-03-27T15:00:32Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "bES7IfmYI3kHpTzibnBeqNqWY3I",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "EYlHiTaCoks"
-            },
-            "snippet": {
-                "publishedAt": "2023-04-28T18:00:07Z",
-                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-                "title": "Perfect Pipeline With Kai Lenny And The GOAT Kelly Slater!",
-                "description": "Kelly Slater joins a surf super team at Pipeline with Kai Lenny and Carissa Moore for these pumping Da Hui Backdoor Shootout ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/EYlHiTaCoks/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/EYlHiTaCoks/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/EYlHiTaCoks/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Red Bull Surfing",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-04-28T18:00:07Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Nd61uwWmZuJQ9vYhQZlXSiwKnQU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "a_duWpsWNBI"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-29T22:34:12Z",
-                "channelId": "UCFgENuK4dlrFdjW9nqvExWg",
-                "title": "SURFING HAWAII LATE SEASON, NO CROWDS!",
-                "description": "Fun surfing with some of the best surfers in the world, filmed in Hawaii. NOW GO SURF! Surfers : Eli Olson - Koa Rothman - John ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/a_duWpsWNBI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/a_duWpsWNBI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/a_duWpsWNBI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Eli Olson",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-29T22:34:12Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "NCST2TuD6cBfURgTUTBey3DKGu0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "YTMuLeOItO0"
-            },
-            "snippet": {
-                "publishedAt": "2023-07-13T09:23:24Z",
-                "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-                "title": "Filipe Toledo, Kanoa Igarashi, Adin Masencamp | Corona Open J-Bay 2023 - Opening Round Heat Replay",
-                "description": "In South Africa awaits the best right-hander on Earth. The pointbreak is a blank canvas for the world's best surfers to draw creative ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/YTMuLeOItO0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/YTMuLeOItO0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/YTMuLeOItO0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "World Surf League",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-07-13T09:23:24Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "otsWSgS2vg1Si-AyoV0HBSJVw9U",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "kSAIciEK2iY"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-19T19:00:30Z",
-                "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
-                "title": "IT DOESNT GET BETTER THAN THIS (DREAMY WAVES)",
-                "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kSAIciEK2iY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kSAIciEK2iY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kSAIciEK2iY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Jamie O'Brien",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-19T19:00:30Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Xw3wVKO6kVGF-Qr-Bdc8UqJoaq4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "47hvlitO1Gg"
-            },
-            "snippet": {
-                "publishedAt": "2023-07-13T07:45:27Z",
-                "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-                "title": "Ethan Ewing, Caio Ibelli, Rio Waida | Corona Open J-Bay - Opening Round Heat Replay",
-                "description": "In South Africa awaits the best right-hander on Earth. The pointbreak is a blank canvas for the world's best surfers to draw creative ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/47hvlitO1Gg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/47hvlitO1Gg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/47hvlitO1Gg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "World Surf League",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-07-13T07:45:27Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "mz6jiqtnqKYOOTd9A4SfzMzQvm8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "YMtzVVC6Kco"
-            },
-            "snippet": {
-                "publishedAt": "2023-07-12T11:29:55Z",
-                "channelId": "UC34Kj3O0MLXeYfNUcfDpHCg",
-                "title": "Pros warm up before 2023 Jbay open | South Africa | Surf Diary | 12/5/23",
-                "description": "Filmer Addai Willmott Editor Addai Willmott Stay Updated Subscribe to our YouTube https://www.youtube.com/@pointdiaries ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/YMtzVVC6Kco/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/YMtzVVC6Kco/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/YMtzVVC6Kco/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Surf Diary - Find your wave",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-07-12T11:29:55Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Nyn3KEagmjRd-QG0lBA_DWghtQc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "pmlzdeZuAk8"
-            },
-            "snippet": {
-                "publishedAt": "2021-02-27T14:28:13Z",
-                "channelId": "UCxkIzPnPzWLz4IeuxIROflg",
-                "title": "What Surfing Is ACTUALLY Like as a Beginner",
-                "description": "See what it's actually like to surf as a beginner, including why it's fun and why it kind of sucks at times! Click below to join the ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Travis Marziani",
-                "liveBroadcastContent": "none",
-                "publishTime": "2021-02-27T14:28:13Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "5cEAQ_NYTkwVSaz863a7V6xttKU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Iuy69BMHESM"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-10T19:00:13Z",
-                "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-                "title": "🔴(ASMR) Teahupoo: The Ultimate Surfing Experience - April 2023",
-                "description": "Welcome to Waves of the World We are not your typical surfing channel. Our dedicated filmers from around the world produce the ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Iuy69BMHESM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Iuy69BMHESM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Iuy69BMHESM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Waves of the World",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-10T19:00:13Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "rt_9xXE_tRnFCaiS0brdoU2TsM4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ZAUBSBoigQ0"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-21T22:29:54Z",
-                "channelId": "UCf5CA0OsvhhU-6AcSjT1oKQ",
-                "title": "The WEDGE - Biggest and Best waves of Spring 2023! (RAW FOOTAGE)",
-                "description": "All the biggest and best rides/waves captured at the Wedge in Spring 2023! Viewers asked for best rides RAW and here it is!",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ZAUBSBoigQ0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ZAUBSBoigQ0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ZAUBSBoigQ0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "BEEFS T.V.",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-21T22:29:54Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "NLm0lXvMfsoZoUZbyZXGoFvyvyQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "PRPxTztXoOo"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-10T18:00:10Z",
-                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
-                "title": "MASSIVE Waves in Tahiti | Red Bull Surfing x Surfline 20ft +",
-                "description": "Autumn in the Southern Hemisphere is when swell trains wake from their summer slumber and start to roll out of the Southern ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PRPxTztXoOo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PRPxTztXoOo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PRPxTztXoOo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Red Bull Surfing",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-10T18:00:10Z"
+                "publishTime": "2023-05-29T10:00:27Z"
             }
         }
     ]

@@ -1,6 +1,7 @@
-import React, { useEffect, useState } from 'react';
+import  { useEffect, useState } from 'react';
 import axios from 'axios' ;
-
+import styles from './MainVideo.module.css';
+import Thumbnail from '../common/Thumbnail';
 export default function Main() {
     const [ videoInfos , setVideoInfo] = useState([]);
     
@@ -27,16 +28,21 @@ export default function Main() {
 
     
     return (
-        <div>
-            <ul>
+        <div className={styles.container}>
+                
                 {videoInfos.map((videoInfo)=>(
-                    <li key={videoInfo.etag}>
-                        <img src={videoInfo.snippet.thumbnails.medium.url}/> 
-                        <p>{videoInfo.snippet.title}</p> 
-                    </li>
+                    // <div key={videoInfo.etag}>
+                    //     <img className={styles.img} src={videoInfo.snippet.thumbnails.medium.url}/> 
+                    //     <p>{videoInfo.snippet.title}<br/>
+                    //         <span>{videoInfo.snippet.channelTitle}</span><br/>
+                    //         <span>{videoInfo.snippet.publishTime}</span>
+                    //     </p> 
+
+                    // </div>
+                    <Thumbnail key={videoInfo.etag} videoInfo={videoInfo} />
                 ))}
 
-            </ul>
+            
         </div>
     );
 }
