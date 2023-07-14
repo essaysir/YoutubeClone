@@ -14,7 +14,7 @@ export default function Main() {
     //         setVideoInfo(data.items);
     //     });
     // },[]);
-
+    // 하하하 
     // // 2번 axios 로 불러오기
     useEffect(()=>{
         axios.get('data/list.json')
