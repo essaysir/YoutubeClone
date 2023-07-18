@@ -1,20 +1,47 @@
-import React from 'react';
+import {useEffect, useState} from 'react';
 import styles from './Thumbnail.module.css';
 import he from 'he';
+import axios from 'axios' ;
 
 export default function Thumbnail({videoInfo}) {
     const title = he.decode(videoInfo.snippet.title) ;
-    const truncatedTitle = truncateTitle(title, 50);
+    const truncatedTitle = truncateTitle(title, 35);
 
     const time = new Date(videoInfo.snippet.publishTime) ;
     const format_time = formatTimeAgo(time);
+    const [profileImg, setProfileImg] = useState('');
+    
+    useEffect(()=>{
+      let ignore = false ;
+      axios.get('data/channel_id.json')
+      .then((Response)=>{
+          if ( !ignore ){
+            // console.log(Response.data);
+            const thumbnailUrl = Response.data.items[0].snippet.thumbnails.default.url;
+            // console.log(thumbnailUrl);
+            setProfileImg(thumbnailUrl);  
+          }
+      })
+      .catch((Error)=>{console.log(Error)});
+      return ()=>{
+          ignore = true ; 
+      };
+      },[]);
+      
     return (
         <div className={styles.cont}key={videoInfo.etag}>
                          <img className={styles.img} src={videoInfo.snippet.thumbnails.medium.url}/> 
-                         <p>{truncatedTitle}<br/>
-                            <span>{videoInfo.snippet.channelTitle}</span><br/>
-                             <span>{format_time}</span>
-        </p>
+                        <section className={styles.flexsection}>
+                          <div className={styles.profileImg}>
+                            <img className={styles.thumbnail}src={profileImg} />
+                          </div>
+                          <div>
+                          <p className='mx-2'>{truncatedTitle}<br/>
+                              <span className={styles.channel}>{videoInfo.snippet.channelTitle}</span><br/>
+                              <span className={styles.channel}>{format_time}</span>
+                          </p>
+                          </div>
+                        </section>
         </div>
     );
 }

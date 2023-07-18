@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "ZAlQewocYf9uMXz5CoUlcZ6kxZw",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "GDEzUbrzLHtasfBZqy_onEvuk2g",
+            "id": "UCdzvOj7ScQBI6RJ_CvDmbbw",
+            "snippet": {
+                "title": "츈츈ChunChun",
+                "description": "발로란트 인간드론 전문점",
+                "customUrl": "@chunchunkr",
+                "publishedAt": "2017-04-24T11:29:19Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/HauoXa4wZBASx-uqrb83Re0TIyFdlKnmQkCXD1zzmTjkrNNglQWPtvFlk6RFgAQsmPidjg28eQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/HauoXa4wZBASx-uqrb83Re0TIyFdlKnmQkCXD1zzmTjkrNNglQWPtvFlk6RFgAQsmPidjg28eQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/HauoXa4wZBASx-uqrb83Re0TIyFdlKnmQkCXD1zzmTjkrNNglQWPtvFlk6RFgAQsmPidjg28eQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "츈츈ChunChun",
+                    "description": "발로란트 인간드론 전문점"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUdzvOj7ScQBI6RJ_CvDmbbw"
+                }
+            },
+            "statistics": {
+                "viewCount": "20947063",
+                "subscriberCount": "44000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "646"
+            }
+        }
+    ]
+}

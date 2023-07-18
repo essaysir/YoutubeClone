@@ -2,9 +2,11 @@ import  { useEffect, useState } from 'react';
 import axios from 'axios' ;
 import styles from './MainVideo.module.css';
 import Thumbnail from '../common/Thumbnail';
+import { useSearch } from '../../context/SearchContext';
+
 export default function Main() {
     const [ videoInfos , setVideoInfo] = useState([]);
-    
+    const { search , setSearch} = useSearch();
     // 1번 fetch 를 통해서 불러오기 
     // useEffect(()=>{
     //     fetch('data/list.json')
@@ -18,12 +20,18 @@ export default function Main() {
     // 하하하 
     // // 2번 axios 로 불러오기
     useEffect(()=>{
+        let ignore = false ;
         axios.get('data/list.json')
         .then((Response)=>{
-            console.log(Response.data);
-            setVideoInfo(Response.data.items);
+            if ( !ignore ){
+                console.log(Response.data);
+                setVideoInfo(Response.data.items);
+            }
         })
         .catch((Error)=>{console.log(Error)});
+        return ()=>{
+            ignore = true ; 
+        };
     },[]);
 
     

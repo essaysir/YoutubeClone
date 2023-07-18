@@ -1,12 +1,14 @@
-import React from 'react';
 import Navbar from '../components/common/Navbar';
 import MainVideo from '../components/home/MainVideo';
+import { SearchContextProvider } from '../context/SearchContext';
+
 export default function Home() {
     return (
-        <>
-            <Navbar/>
-            <MainVideo/>
-        </>
+        
+        <SearchContextProvider>
+                <Navbar/>
+                <MainVideo/>
+        </SearchContextProvider>
     );
 }
 

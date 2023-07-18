@@ -10,3 +10,20 @@
 .cont {
   margin-bottom: 100px;
 }
+.channel {
+  color: #aaaaaa;
+}
+.profileImg {
+  flex-grow: 0;
+  flex-shrink: 0;
+  width: 36px; /* 첫번째 div의 너비 조정 */
+  height: 36px;
+  border-radius: 50%;
+}
+.flexsection {
+  display: flex;
+  margin-top: 0.5rem;
+}
+.thumbnail {
+  border-radius: 50%;
+}
