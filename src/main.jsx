@@ -9,6 +9,9 @@ import Root from './pages/Root';
 import Videos from './pages/Videos';
 import VideoDetail  from './pages/VideoDetail';
 import NotFound from './pages/NotFound';
+
+
+
 const router = createBrowserRouter([
   // Outlet을 활용하는 경우가 아니라면 children 에 추가되면 안된다.
   // Outlet 이란 무엇인가? 특정화면 을 공유하면서 특정 부분만 바뀌도록 해주는 것
