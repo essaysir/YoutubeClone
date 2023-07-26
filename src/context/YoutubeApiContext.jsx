@@ -5,9 +5,9 @@ import YoutubeClient from '../api/youtubeClient';
 
 export const YoutubeApiContext = createContext();
 
-const client = new FakeYoutubeClient(); // mock 데이터를 통한 방법
+// const client = new FakeYoutubeClient(); // mock 데이터를 통한 방법
 const client = new YoutubeClient();
-// const youtube =  new Youtube(client);// new FakeYoutube();
+const youtube =  new Youtube(client);// new FakeYoutube();
 
 export function YoutubeApiProvider({children}){
     return <YoutubeApiContext.Provider value={{youtube}}>
