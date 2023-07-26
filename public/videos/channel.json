@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "0-lVM6w4Qsza1JdDJQ8JoxH9gqw",
+  "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 5
+  },
+  "items": [
+      {
+          "kind": "youtube#channel",
+          "etag": "cZI94ad7mjQ1lIgzAHRnw56H-oY",
+          "id": "UCdzvOj7ScQBI6RJ_CvDmbbw",
+          "snippet": {
+              "title": "츈츈ChunChun",
+              "description": "발로란트 인간드론 전문점",
+              "customUrl": "@chunchunkr",
+              "publishedAt": "2017-04-24T11:29:19Z",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/HauoXa4wZBASx-uqrb83Re0TIyFdlKnmQkCXD1zzmTjkrNNglQWPtvFlk6RFgAQsmPidjg28eQ=s88-c-k-c0x00ffffff-no-rj",
+                      "width": 88,
+                      "height": 88
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/HauoXa4wZBASx-uqrb83Re0TIyFdlKnmQkCXD1zzmTjkrNNglQWPtvFlk6RFgAQsmPidjg28eQ=s240-c-k-c0x00ffffff-no-rj",
+                      "width": 240,
+                      "height": 240
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/HauoXa4wZBASx-uqrb83Re0TIyFdlKnmQkCXD1zzmTjkrNNglQWPtvFlk6RFgAQsmPidjg28eQ=s800-c-k-c0x00ffffff-no-rj",
+                      "width": 800,
+                      "height": 800
+                  }
+              },
+              "localized": {
+                  "title": "츈츈ChunChun",
+                  "description": "발로란트 인간드론 전문점"
+              },
+              "country": "KR"
+          }
+      }
+  ]
+}
