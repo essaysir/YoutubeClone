@@ -17,7 +17,9 @@ export default function Videos() {
     // 위에서는 '' 공백인 경우는 거짓인 경우에 해당된다. 
     const {youtube} = useYoutubeApi();
     const {isLoading, error, data:videos , } = useQuery(['videos',searchName] ,
-        ()=> youtube.search(searchName));
+        ()=> youtube.search(searchName),
+        {staleTime: 1000*60*1},     
+        );
     // fetch 방식 => fetch 의 단점은 javascript native 함수지만, 
     //  400 번대로 응답해도 이를 에러를 처리하지 않고, res 로 넘겨준다. 따라서, 이를 res 에서 
     // 내가 직접 처리해주어야한다. but , axios는 400번대 응답코드를 알아서 에러로 처리해준다.
