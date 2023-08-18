@@ -3,10 +3,10 @@ import { useYoutubeApi } from '../../context/YoutubeApiContext';
 import { useQuery } from 'react-query';
 import VideoCard  from './VideoCard';
 
-export default function RelatedVideos({id,name}) {
+export default function RelatedVideos({title}) {
     const {youtube} = useYoutubeApi();
-    const { isLoading ,error , data:videos} = useQuery( ['related', id] , ()=>
-        youtube.releatedVideos(id) ,
+    const { isLoading ,error , data:videos} = useQuery( ['related', title] , ()=>
+        youtube.releatedVideos(title) ,
         {staleTime: 1000*60*5} , 
         ); 
     return (

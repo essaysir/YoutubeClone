@@ -5,6 +5,7 @@ export default function VideoDetail() {
     const { state: {video}} = useLocation(); 
     //console.log(video);
     const {title , channelId , channelTitle , description} = video.snippet
+    console.log(title);
     return (
         <section className='flex flex-col lg:flex-row'>
             <article className='basis-4/6'>
@@ -23,7 +24,7 @@ export default function VideoDetail() {
                 </div>
             </article>
             <section className='basis-2/6 mx-3'>
-                <RelatedVideos id={video.id}/>
+                <RelatedVideos title={title}/>
             </section>
         </section>
     );

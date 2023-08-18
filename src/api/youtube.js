@@ -13,13 +13,13 @@ export default class Youtube {
         .then((res)=> res.data.items[0].snippet.thumbnails.default.url)
     }
     
-    async releatedVideos(id){
+    async releatedVideos(title){
         return this.apiClient.search({
             params:{
                 part:'snippet' ,
                 maxResults : 10 ,
                 type : 'video',
-                relatedToVideoId: id 
+                q: title
             },
         })
         .then((res)=> res.data.items.map((item)=>({...item , id:item.id.videoId})));
